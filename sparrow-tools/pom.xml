@@ -17,6 +17,7 @@
         <module>sparrow-tools-swagger2</module>
         <module>sparrow-tools-xss</module>
         <module>sparrow-tools-core</module>
+        <module>sparrow-tools-common</module>
     </modules>
 
     <properties>
